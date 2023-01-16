@@ -1,0 +1,42 @@
+body {
+    background-color: grey;
+  }
+
+.div1 {
+    background-color: red;
+    font-weight: bold;
+    font-style: oblique;
+    margin-left: 2px;
+    padding-bottom: 2px;
+    text-align:left;
+}
+
+.tab1 {
+    background-color:blue;
+    width:50%;
+    border: 15px;
+}
+.tab2 {
+    background-color:aqua;
+    width:50%;
+    border: 15px;
+}
+.tab3 {
+    background-color:green;
+    width:50%;
+    border: 15px;
+}
+.tab4 {
+    background-color:yellow;
+    width:50%;
+    border: 15px;
+}
+
+.lista {
+    list-style-type: upper-roman;
+}
+
+#button {
+    color: #0066ff;
+    border: 5px;
+}
